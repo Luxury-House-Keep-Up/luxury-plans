@@ -1,0 +1,11 @@
+ÁREA/ESPACIO,PIES_CUADRADOS,TIPO_LIMPIEZA,PRECIO_PIE_CUADRADO,SUBTOTAL_BASE,SERVICIOS_ADICIONALES,COSTO_ADICIONALES,AJUSTES,TOTAL_FINAL,NOTAS
+Apartamento Tipo A,800,Final,$0.45,$360,Ventanas (6 paneles),$24,Ninguno,$384,Unidad estándar
+Apartamento Tipo B,950,Final,$0.45,$427.50,Ventanas + balcón,$36,Ninguno,$463.50,Unidad con balcón
+Oficina Ejecutiva 1,1200,Premium,$0.60,$720,Ventanas grandes (8),$48,Ninguno,$768,Espacio corporativo
+Oficina Ejecutiva 2,1500,Premium,$0.60,$900,Ventanas + mamparas,$72,Ninguno,$972,División de cristal
+Retail Espacio 1,2000,Final,$0.50,$1000,Escaparates (10),$80,Ninguno,$1080,Frente de calle
+Retail Espacio 2,1800,Final,$0.50,$900,Escaparates + adhesivos,$95,Ninguno,$995,Remoción signage
+Lobby Principal,3000,Premium,$0.65,$1950,Ventanas altura + pulido,$200,Ninguno,$2150,Área común principal
+Gimnasio/Amenidades,2500,Profunda,$0.55,$1375,Equipos especiales,$150,Ninguno,$1525,Espacios húmedos
+Estacionamiento Cubierto,15000,Básica,$0.25,$3750,Limpieza industrial,$300,Descuento (-5%),$3847.50,Área techada
+Áreas Comunes Exteriores,5000,Básica,$0.30,$1500,Pressure washing,$200,Ninguno,$1700,Walkways y patios
