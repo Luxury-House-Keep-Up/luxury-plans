@@ -165,7 +165,7 @@
 
 **Valid until:** September 30, 2025  
 **Contact:** Rosa González - (813) 526-6048  
-**Email:** booking@luxuryhousekeepup.com
+**Email:** admin@luxuryhousekeepup.com
 
 *All rates subject to site inspection*  
 *Quotes valid for 30 days*

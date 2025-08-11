@@ -165,7 +165,7 @@
 
 **Válido hasta:** Septiembre 30, 2025  
 **Contacto:** Rosa González - (813) 526-6048  
-**Email:** booking@luxuryhousekeepup.com
+**Email:** admin@luxuryhousekeepup.com
 
 *Todas las tarifas sujetas a inspección del sitio*  
 *Cotizaciones válidas por 30 días*
